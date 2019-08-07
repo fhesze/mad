@@ -1,0 +1,37 @@
+
+The files in this directory and subdirectories are part of the MAD libary.
+
+Not all files in these directories are necessarily free software.
+
+There are 3 possibilities:
+1. The code is not yet released under the GNU Lesser General Public License.
+   This is marked by a text such as
+        This file is part of the MAD libary.
+
+        It is NOT released under the GNU Lesser General Public License, yet.
+
+        If you use this code, please contact Falk He"sse.
+
+        Copyright 2014-2015 Falk He"sse
+   If you want to use this routine for publication or similar, please contact the author for possible co-authorship.
+
+2. The code is already released under the GNU Lesser General Public License
+   but if you use the code in a publication or similar, you have to cite the respective publication, e.g.
+        If you use this code in your work, you should cite the respective reference
+
+3. The code is released under the GNU Lesser General Public License. The following applies:
+   The MAD libary is free software: you can redistribute it and/or modify
+   it under the terms of the GNU Lesser General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+
+   The MAD libary is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+   GNU Lesser General Public License for more details.
+
+   You should have received a copy of the GNU Lesser General Public License
+   along with the source files (lgpl.txt).
+   If not, see <http://www.gnu.org/licenses/>.
+
+   Copyright 2014-2015 Falk He"sse

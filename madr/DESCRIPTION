@@ -1,0 +1,10 @@
+Package: madr
+Title: Generic Functions for MAD# Post-Processing
+Version: 0.1
+Date: 2015-01-25
+Author: Heather Savoy
+Maintainer: Heather Savoy <heather.m.savoy@gmail.com>
+Description: This package provides R scripts for the MAD software project
+Depends: GSTAT, MATRIXCALC, MVTNORM, INTAMAP
+Suggests: GRIDDED
+License: GNU Lesser General Public License
